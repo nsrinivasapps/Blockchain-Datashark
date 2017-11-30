@@ -1,0 +1,4 @@
+pyRserve
+numpy
+scipy
+phe
